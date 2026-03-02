@@ -170,3 +170,11 @@ This project reflects how data analysts operate in real business environments:
 - Supporting decisions with evidence
 
 It is designed to showcase **analytical rigor, business thinking, and practical execution**.
+
+## 📬 Contact
+If you’re looking for a data analyst who understands **both numbers and business impact**, feel free to connect.
+<rishisharma3218@gmail.com>
+
+---
+
+**Built with clarity, intent, and analytical discipline.**
